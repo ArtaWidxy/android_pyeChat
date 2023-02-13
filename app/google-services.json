@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022862723780",
+    "project_id": "pyeapp-6d25c",
+    "storage_bucket": "pyeapp-6d25c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022862723780:android:f46a5c0a37613c8c91d791",
+        "android_client_info": {
+          "package_name": "com.widxyapp.pyeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022862723780-skbhumkvn6ert67c6i42upu6cg79ud2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdKJ8fEd40cSShVDaN5pH2HyzrcuuQ400"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022862723780-skbhumkvn6ert67c6i42upu6cg79ud2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
